@@ -1,0 +1,9 @@
+main.jsx me reacat ka components import karte h 
+react ek virtual dom create karta h or jab hum root ko call karte h tab sara details usme render kar deta h 
+jsx  ke thru hum html ke page me javasxcript ki help se likh dete h 
+or JSX me js ke ander html likh deta h
+
+.gitignore file jo bhi file isme likhte h wo git par pass nahi hota h 
+
+package.json humare project ki sari details rakhta h 
+

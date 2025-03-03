@@ -1,0 +1,19 @@
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* max-width: 1440px;
+    height: 72px; */
+    margin: 0 auto;
+}
+.navigation ul{
+    display: flex;
+    gap: 24px;
+    list-style-type: none;
+   
+}
+.navigation ul li a{
+    text-decoration: none;
+    color: #2e2e2e;
+     font-weight: 800;
+}

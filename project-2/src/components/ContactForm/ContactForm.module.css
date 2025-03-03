@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    max-width: 1407px;
+    margin-top: 50px;
+   justify-content: space-around;
+    
+}
+.contact_form{
+    margin-top: 20px;  
+    margin-left: 34px;
+}
+.top_btn{
+    display: flex;
+    gap: 35PX;
+    margin-bottom: 31px;
+}
+.contact_image{
+    width: 419px;
+    height: 485px;
+    padding: 0;
+    margin: 0;
+}
